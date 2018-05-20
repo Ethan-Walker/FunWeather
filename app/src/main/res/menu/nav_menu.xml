@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+
+            android:id="@+id/nav_my_logout"
+            android:icon="@drawable/nav_friends"
+            android:title="退出登录" />
+        <item
+            android:id="@+id/nav_switch_service"
+            android:icon="@drawable/ic_settings"
+            android:title="关闭自动更新" />
+        <item
+            android:id="@+id/nav_change_back_img"
+            android:icon="@drawable/nav_task"
+            android:title="更换背景图片" />
+    </group>
+
+
+</menu>

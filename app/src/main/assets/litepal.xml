@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="fun" />
+    <version value="2" />
+    <list>
+        <mapping class="com.exmaple.funweather.db.County" />
+        <mapping class="com.exmaple.funweather.db.City" />
+        <mapping class="com.exmaple.funweather.db.Province" />
+        <!--<mapping class="com.exmaple.funweather.db.Weather" />-->
+        <mapping class="com.exmaple.funweather.db.Comment" />
+        <mapping class="com.exmaple.funweather.db.Image" />
+        <mapping class="com.exmaple.funweather.db.User" />
+    </list>
+
+</litepal>
